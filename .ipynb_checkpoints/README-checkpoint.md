@@ -1,0 +1,1 @@
+## This repository contains scripts for the intermediate python course from Datacamp. The link to the course can be found [here](https://app.datacamp.com/learn/courses/intermediate-python)
